@@ -93,7 +93,7 @@ README.md
 
 ## 👨‍💻 Author
 
-**JP Abeesh**
+**JP ABEESH**
 
 Electronics and Communication Engineering (ECE)
 
