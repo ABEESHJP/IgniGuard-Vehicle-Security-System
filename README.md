@@ -1,4 +1,4 @@
-# 🚗 IgniGuard - RFID & GSM Vehicle Security System
+# IgniGuard - RFID & GSM Vehicle Security System
 
 An embedded vehicle security system developed using the **LPC2129 ARM7 Microcontroller**. IgniGuard uses **RFID authentication** to control vehicle ignition and **GSM communication** to send SMS alerts during unauthorized access attempts, enhancing vehicle security and theft prevention.
 
